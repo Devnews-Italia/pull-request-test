@@ -1,4 +1,4 @@
 # pull-request-test
 
 
-In questa repository andiamo a cambiare il seguente valore: 1+1=3
+In questa repository andiamo a cambiare il seguente valore: 1+1=2
